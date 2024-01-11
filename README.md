@@ -1,6 +1,6 @@
 ### Hi there , I'm Ahmet Fatih GÜZELLER  👋
 
-I'm a Junior Java Developer 
+I'm a Full Stack .NET Developer 
 
 - 🔭  I have started writing technical blogs at Medium!
 - 🌱 I’m currently learning Java for Web development
